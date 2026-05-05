@@ -1,5 +1,8 @@
 !/output_stickers/
 !/stickers_512/
 !/temp/
-!/.env
 !/stickers_512/
+!/.env
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
